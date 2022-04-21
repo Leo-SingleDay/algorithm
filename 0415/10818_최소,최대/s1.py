@@ -14,3 +14,4 @@ for i in range(1, len(nums)):
         max_num = nums[i]
 print(min_num, end=" ")
 print(max_num)
+
