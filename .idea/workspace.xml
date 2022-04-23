@@ -13,64 +13,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0415/10818_최소,최대/s1.py">
+        <entry file="file://$PROJECT_DIR$/0422/2920_음계/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0421/11654_아스키 코드/s2.py">
+        <entry file="file://$PROJECT_DIR$/0423/2293_동전 1/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0422/2920_음계/s2.py">
+        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0420/2504_괄호의 값/input.txt">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="12" />
+            <state relative-caret-position="306">
+              <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0421/11654_아스키 코드/input.txt">
+        <entry file="file://$PROJECT_DIR$/0423/2293_동전 1/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0419/2581_소수/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0419/14888_연산자 끼워넣기/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="54">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,11 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0120/3052_나머지/input.txt" />
-        <option value="$PROJECT_DIR$/0120/1546_평균/input.txt" />
-        <option value="$PROJECT_DIR$/0120/1546_평균/s1.py" />
-        <option value="$PROJECT_DIR$/0120/8958_OX퀴즈/input.txt" />
-        <option value="$PROJECT_DIR$/0120/8958_OX퀴즈/s1.py" />
         <option value="$PROJECT_DIR$/0120/4344_평균은넘겠지/input.txt" />
         <option value="$PROJECT_DIR$/0120/4344_평균은넘겠지/s1.py" />
         <option value="$PROJECT_DIR$/0120/10872_팩토리얼/input.txt" />
@@ -161,12 +156,17 @@
         <option value="$PROJECT_DIR$/0421/11654_아스키 코드/input.txt" />
         <option value="$PROJECT_DIR$/0421/11654_아스키 코드/s2.py" />
         <option value="$PROJECT_DIR$/0422/2920_음계/s2.py" />
+        <option value="$PROJECT_DIR$/0423/2293_동전 1/input.txt" />
+        <option value="$PROJECT_DIR$/0423/2293_동전 1/s2.py" />
+        <option value="$PROJECT_DIR$/0423/2294_동전 2/input.txt" />
+        <option value="$PROJECT_DIR$/0423/2294_동전 2/s3.py" />
+        <option value="$PROJECT_DIR$/0423/2294_동전 2/s2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="252" />
-    <option name="y" value="109" />
+    <option name="x" value="147" />
+    <option name="y" value="55" />
     <option name="width" value="1909" />
     <option name="height" value="1087" />
   </component>
@@ -187,35 +187,19 @@
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0420" type="462c0819:PsiDirectoryNode" />
+              <item name="0423" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0420" type="462c0819:PsiDirectoryNode" />
-              <item name="2504_괄호의 값" type="462c0819:PsiDirectoryNode" />
+              <item name="0423" type="462c0819:PsiDirectoryNode" />
+              <item name="2293_동전 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0421" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0421" type="462c0819:PsiDirectoryNode" />
-              <item name="11654_아스키 코드" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0422" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0422" type="462c0819:PsiDirectoryNode" />
-              <item name="2920_음계" type="462c0819:PsiDirectoryNode" />
+              <item name="0423" type="462c0819:PsiDirectoryNode" />
+              <item name="2294_동전 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,15 +211,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\guswh\Desktop\알고\0120\10818" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guswh\Desktop\알고\0423\2294_동전 2" />
       <recent name="C:\Users\guswh\Desktop\알고\0414" />
       <recent name="C:\Users\guswh\Desktop\알고\0120" />
       <recent name="C:\Users\guswh\Desktop\알고\0120\1546_평균" />
       <recent name="C:\Users\guswh\Desktop\알고\0120\3052_나머지" />
-      <recent name="C:\Users\guswh\Desktop\알고\0120\2577_숫자의 개수" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guswh\Desktop\알고\0120\10818" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,49 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s2 (2)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0419/1292_쉽게푸는문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0419/1292_쉽게푸는문제/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0419/2581_소수" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0419/2581_소수/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s2">
     <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,6 +277,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s2 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0423/2293_동전 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0423/2293_동전 1/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,11 +306,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0419/14888_연산자 끼워넣기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0423/2294_동전 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0419/14888_연산자 끼워넣기/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0423/2294_동전 2/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0423/2294_동전 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0423/2294_동전 2/s3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s3" />
+        <item itemvalue="Python.s2 (3)" />
         <item itemvalue="Python.s2 (2)" />
         <item itemvalue="Python.s2 (1)" />
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s2" />
       </list>
     </recent_temporary>
   </component>
@@ -380,15 +364,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="252" y="109" width="1909" height="1087" extended-state="0" />
+    <frame x="147" y="55" width="1909" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21272047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32749563" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3485114" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32738718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34837356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -499,6 +484,76 @@
           <line>8</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2293_동전 1/s2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2293_동전 1/s2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2293_동전 1/s2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2293_동전 1/s2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2293_동전 1/s2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s3.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0423/2294_동전 2/s2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -514,6 +569,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>min_num</expression-string>
         <language-id>Python</language-id>
@@ -547,30 +607,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0414/3460_이진수/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0120/3052_나머지/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0120/4344_평균은넘겠지/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0414/3460_이진수 - 복사본 (2)/s1.py" />
-    <entry file="file://$PROJECT_DIR$/0414/3460_이진수 - 복사본 (2)/input.txt" />
-    <entry file="file://$PROJECT_DIR$/0414/2460_지능형 기차2/s1.py" />
     <entry file="file://$PROJECT_DIR$/0414/10818_최소,최대/input.txt" />
     <entry file="file://$PROJECT_DIR$/0414/10818_최소,최대/s1.py" />
     <entry file="file://$PROJECT_DIR$/0415/2460_지능형 기차2/s1.py">
@@ -759,6 +795,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0421/11654_아스키 코드/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0420/2504_괄호의 값/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -808,17 +851,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0421/11654_아스키 코드/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0422/2920_음계/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2293_동전 1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2293_동전 1/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
