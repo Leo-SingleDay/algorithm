@@ -15,6 +15,7 @@ for i in range(1, k+1):
         if i >= coin and counts[i-coin] != -1:
             temp.append(counts[i-coin])
     if not temp:
+
         counts[i] = -1
     else:
         counts[i] = min(temp) +1
