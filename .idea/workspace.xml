@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0004e61a-34df-49e0-994c-b04dfaf35040" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0423/2294_동전 2/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0423/2294_동전 2/s2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,46 +13,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0419/2581_소수/s1.py">
+        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="468">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/input.txt">
+        <entry file="file://$PROJECT_DIR$/0428/1260_DFS와 BFS/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/s2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="324">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s2.py">
+        <entry file="file://$PROJECT_DIR$/0428/3568_iSharp/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="378">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s3.py">
+        <entry file="file://$PROJECT_DIR$/0428/3568_iSharp/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0428/1260_DFS와 BFS/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -89,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/0418/1978_소수찾기/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -98,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/0425/1789_수들의 합/s2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -116,10 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0416/10870_피보나치수5/s1.py" />
-        <option value="$PROJECT_DIR$/0416/2693_N번째 큰 수/input.txt" />
-        <option value="$PROJECT_DIR$/0416/2693_N번째 큰 수/s1.py" />
-        <option value="$PROJECT_DIR$/0416/2609_최대공약수와 최소공배수/input.txt" />
         <option value="$PROJECT_DIR$/0416/2609_최대공약수와 최소공배수/s1.py" />
         <option value="$PROJECT_DIR$/0416/2309_일곱난쟁이/input.txt" />
         <option value="$PROJECT_DIR$/0416/2309_일곱난쟁이/s1.py" />
@@ -167,12 +162,16 @@
         <option value="$PROJECT_DIR$/0427/1436_영화감독 숌/s2.py" />
         <option value="$PROJECT_DIR$/0427/1436_영화감독 숌/input.txt" />
         <option value="$PROJECT_DIR$/0423/2294_동전 2/s2.py" />
+        <option value="$PROJECT_DIR$/0428/1260_DFS와 BFS/input.txt" />
+        <option value="$PROJECT_DIR$/0428/1260_DFS와 BFS/s2.py" />
+        <option value="$PROJECT_DIR$/0428/3568_iSharp/input.txt" />
+        <option value="$PROJECT_DIR$/0428/3568_iSharp/s2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="y" value="148" />
+    <option name="x" value="1110" />
+    <option name="y" value="149" />
     <option name="width" value="1283" />
     <option name="height" value="1087" />
   </component>
@@ -182,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,44 +191,19 @@
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0423" type="462c0819:PsiDirectoryNode" />
+              <item name="0428" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0423" type="462c0819:PsiDirectoryNode" />
-              <item name="2294_동전 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0424" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0425" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0426" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0427" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0427" type="462c0819:PsiDirectoryNode" />
-              <item name="1436_영화감독 숌" type="462c0819:PsiDirectoryNode" />
+              <item name="0428" type="462c0819:PsiDirectoryNode" />
+              <item name="3568_iSharp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s2 (2)">
+  <component name="RunManager" selected="Python.s2 (5)">
     <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,6 +276,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s2 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0428/1260_DFS와 BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0428/1260_DFS와 BFS/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s2 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,32 +326,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0426/1085_직사각형에서 탈출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0428/3568_iSharp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0426/1085_직사각형에서 탈출/s2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0427/1181_단어 정렬" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0427/1181_단어 정렬/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0428/3568_iSharp/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s2 (5)" />
+        <item itemvalue="Python.s2 (3)" />
         <item itemvalue="Python.s2 (2)" />
         <item itemvalue="Python.s2 (1)" />
         <item itemvalue="Python.s2 (4)" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s2 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -390,8 +363,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="148" width="1283" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="1110" y="149" width="1283" height="1087" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24819277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -695,16 +667,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0417/2309_일곱난쟁이/s3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0419/14888_연산자 끼워넣기/s1.py" />
-    <entry file="file://$PROJECT_DIR$/0419/2581_소수/s2.py" />
-    <entry file="file://$PROJECT_DIR$/0420/14888_연산자 끼워넣기/s2.py" />
     <entry file="file://$PROJECT_DIR$/0419/1292_쉽게푸는문제/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -945,6 +907,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0419/1292_쉽게푸는문제/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -969,42 +952,49 @@
     <entry file="file://$PROJECT_DIR$/0418/1978_소수찾기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0425/1789_수들의 합/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0427/1436_영화감독 숌/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0428/1260_DFS와 BFS/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0428/1260_DFS와 BFS/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0428/3568_iSharp/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0428/3568_iSharp/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
