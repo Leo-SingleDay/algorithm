@@ -13,28 +13,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0429/15486_퇴사2/s3.py">
+        <entry file="file://$PROJECT_DIR$/0430/2290_LCD Test/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="216">
+              <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0430/2290_LCD Test/s2.py">
+        <entry file="file://$PROJECT_DIR$/0501/1141_접두사/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+        <entry file="file://$PROJECT_DIR$/0501/1141_접두사/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5832">
-              <caret line="325" selection-start-line="325" selection-end-line="325" />
+            <state relative-caret-position="54">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -122,8 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0416/2309_일곱난쟁이/s2.py" />
-        <option value="$PROJECT_DIR$/0417/1316_그룹단어체커/s1.py" />
         <option value="$PROJECT_DIR$/0417/1316_그룹단어체커/input.txt" />
         <option value="$PROJECT_DIR$/0418/1978_소수찾기/s1.py" />
         <option value="$PROJECT_DIR$/0418/1978_소수찾기/input.txt" />
@@ -173,12 +171,14 @@
         <option value="$PROJECT_DIR$/0429/15486_퇴사2/s2.py" />
         <option value="$PROJECT_DIR$/0429/15486_퇴사2/s3.py" />
         <option value="$PROJECT_DIR$/0430/2290_LCD Test/s2.py" />
+        <option value="$PROJECT_DIR$/0501/1141_접두사/input.txt" />
+        <option value="$PROJECT_DIR$/0501/1141_접두사/s2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="696" />
-    <option name="y" value="146" />
+    <option name="x" value="295" />
+    <option name="y" value="126" />
     <option name="width" value="1593" />
     <option name="height" value="1087" />
   </component>
@@ -205,6 +205,17 @@
               <item name="알고" type="462c0819:PsiDirectoryNode" />
               <item name="0430" type="462c0819:PsiDirectoryNode" />
               <item name="2290_LCD Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고" type="462c0819:PsiDirectoryNode" />
+              <item name="0501" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고" type="462c0819:PsiDirectoryNode" />
+              <item name="0501" type="462c0819:PsiDirectoryNode" />
+              <item name="1141_접두사" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s3">
-    <configuration name="s2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.s2 (1)">
+    <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0423/2294_동전 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0501/1141_접두사" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0423/2294_동전 2/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0501/1141_접두사/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s2 (1)" />
         <item itemvalue="Python.s3" />
         <item itemvalue="Python.s2" />
         <item itemvalue="Python.s2 (5)" />
         <item itemvalue="Python.s2 (3)" />
-        <item itemvalue="Python.s2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +381,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="696" y="146" width="1593" height="1087" extended-state="0" />
+    <frame x="295" y="126" width="1593" height="1087" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19871382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -614,6 +625,11 @@
           <line>13</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0501/1141_접두사/s2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -679,20 +695,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0423/2293_동전 1/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0423/2294_동전 2/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0424/3085_사탕게임/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -940,6 +942,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0429/15486_퇴사2/s3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5832">
@@ -996,17 +1005,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0429/15486_퇴사2/s3.py">
+    <entry file="file://$PROJECT_DIR$/0501/1141_접두사/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="54">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0430/2290_LCD Test/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="216">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0501/1141_접두사/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
