@@ -13,19 +13,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0510/1107_리모컨/s2.py">
+        <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="126">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/s2.py">
+        <entry file="file://$PROJECT_DIR$/0512/1389_케빈 베이컨의 6가지 법칙/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -122,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0427/1259_펠린드롬수/input.txt" />
         <option value="$PROJECT_DIR$/0427/1436_영화감독 숌/s2.py" />
         <option value="$PROJECT_DIR$/0427/1436_영화감독 숌/input.txt" />
         <option value="$PROJECT_DIR$/0423/2294_동전 2/s2.py" />
@@ -173,14 +175,15 @@
         <option value="$PROJECT_DIR$/0510/1463_1로 만들기/s2.py" />
         <option value="$PROJECT_DIR$/0511/1541_잃어버린 괄호/input.txt" />
         <option value="$PROJECT_DIR$/0511/1541_잃어버린 괄호/s2.py" />
+        <option value="$PROJECT_DIR$/0512/1389_케빈 베이컨의 6가지 법칙/s2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="560" />
-    <option name="y" value="78" />
-    <option name="width" value="1958" />
-    <option name="height" value="1280" />
+    <option name="x" value="-7" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,19 +202,18 @@
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0511" type="462c0819:PsiDirectoryNode" />
+              <item name="0512" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0511" type="462c0819:PsiDirectoryNode" />
-              <item name="1541_잃어버린 괄호" type="462c0819:PsiDirectoryNode" />
+              <item name="0512" type="462c0819:PsiDirectoryNode" />
+              <item name="1389_케빈 베이컨의 6가지 법칙" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,16 +373,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="560" y="78" width="1958" height="1280" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="1" width="1932" height="1085" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2154171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28446773" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2452007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29547843" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -781,13 +783,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0429/15486_퇴사2/s3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0430/2290_LCD Test/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1071,6 +1066,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0510/1107_리모컨/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0510/1463_1로 만들기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1120,24 +1129,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0510/1107_리모컨/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0511/1541_잃어버린 괄호/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="126">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0512/1389_케빈 베이컨의 6가지 법칙/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
