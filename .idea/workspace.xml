@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0004e61a-34df-49e0-994c-b04dfaf35040" name="Default Changelist" comment="" />
+    <list default="true" id="0004e61a-34df-49e0-994c-b04dfaf35040" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +22,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0518 - 복사본/17626_four squares/s2.py">
+        <entry file="file://$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="432">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0430/2290_LCD Test/s2.py" />
         <option value="$PROJECT_DIR$/0501/1141_접두사/input.txt" />
         <option value="$PROJECT_DIR$/0501/1141_접두사/s2.py" />
         <option value="$PROJECT_DIR$/0502/16506_CPU/input.txt" />
@@ -171,6 +175,7 @@
         <option value="$PROJECT_DIR$/0517/11723_집합/s2.py" />
         <option value="$PROJECT_DIR$/0518/17219_비밀번호 찾기/s2.py" />
         <option value="$PROJECT_DIR$/0518 - 복사본/17626_four squares/s2.py" />
+        <option value="$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py" />
       </list>
     </option>
   </component>
@@ -798,13 +803,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0503/2164_카드2/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0503/2164_카드2/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1147,6 +1145,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0518 - 복사본/17626_four squares/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0518/17219_비밀번호 찾기/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1154,10 +1159,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0518 - 복사본/17626_four squares/s2.py">
+    <entry file="file://$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="432">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
