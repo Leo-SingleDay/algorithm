@@ -11,19 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py">
+        <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="306">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
+        <entry file="file://$PROJECT_DIR$/0522/10828_스텍/s2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0501/1141_접두사/s2.py" />
         <option value="$PROJECT_DIR$/0502/16506_CPU/input.txt" />
         <option value="$PROJECT_DIR$/0502/1920_수 찾기/input.txt" />
         <option value="$PROJECT_DIR$/0502/1920_수 찾기/s2.py" />
@@ -171,6 +170,7 @@
         <option value="$PROJECT_DIR$/0518 - 복사본/17626_four squares/s2.py" />
         <option value="$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py" />
         <option value="$PROJECT_DIR$/0521/2805_나무자르기/s2.py" />
+        <option value="$PROJECT_DIR$/0522/10828_스텍/s2.py" />
       </list>
     </option>
   </component>
@@ -197,24 +197,13 @@
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0516" type="462c0819:PsiDirectoryNode" />
+              <item name="0522" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0516" type="462c0819:PsiDirectoryNode" />
-              <item name="1764_듣보잡" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0517" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고" type="462c0819:PsiDirectoryNode" />
-              <item name="0517" type="462c0819:PsiDirectoryNode" />
-              <item name="11723_집합" type="462c0819:PsiDirectoryNode" />
+              <item name="0522" type="462c0819:PsiDirectoryNode" />
+              <item name="10828_스텍" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +370,7 @@
   <component name="ToolWindowManager">
     <frame x="369" y="127" width="1932" height="1085" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2154171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2154171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -798,13 +787,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0504/16928_뱀과 사다리게임/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1082,6 +1064,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5544">
@@ -1138,17 +1127,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0522/10828_스텍/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
