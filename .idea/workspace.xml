@@ -11,19 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
+        <entry file="file://$PROJECT_DIR$/0522/10828_스텍/s2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0522/10828_스텍/s2.py">
+        <entry file="file://$PROJECT_DIR$/0523/10845_큐/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="414">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0502/16506_CPU/input.txt" />
         <option value="$PROJECT_DIR$/0502/1920_수 찾기/input.txt" />
         <option value="$PROJECT_DIR$/0502/1920_수 찾기/s2.py" />
         <option value="$PROJECT_DIR$/0502/16506_CPU/s2.py" />
@@ -171,6 +170,7 @@
         <option value="$PROJECT_DIR$/0520/2630_색종이 만들기/s2.py" />
         <option value="$PROJECT_DIR$/0521/2805_나무자르기/s2.py" />
         <option value="$PROJECT_DIR$/0522/10828_스텍/s2.py" />
+        <option value="$PROJECT_DIR$/0523/10845_큐/s2.py" />
       </list>
     </option>
   </component>
@@ -787,13 +787,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0505/1929_소수 구하기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1071,6 +1064,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5544">
@@ -1127,17 +1127,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0521/2805_나무자르기/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0522/10828_스텍/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0523/10845_큐/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
